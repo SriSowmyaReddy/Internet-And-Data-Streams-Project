@@ -1,0 +1,18 @@
+I have uploaded this project in pythonanywhere.com website.
+
+For looking at the output of the project use the following links below.
+
+For viewing in format of the map:
+
+http://sowmyatumati.pythonanywhere.com/map
+
+For viewing in format of a graph: 
+
+http://sowmyatumati.pythonanywhere.com/graph
+
+For viewing the format of a table of streamed data:
+
+http://sowmyatumati.pythonanywhere.com/table
+
+
+
